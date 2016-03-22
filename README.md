@@ -1,11 +1,14 @@
 ##Elastic-Jobx
-
+* Elastic-Jobx在Elastic-Job的基础上提供了更低的入门门槛,更简单的配置和丰富的数据处理支持。
+* Elastic-Jobx对Elastic-Job无侵入式改动，可随Elastic-Job升级。
+* 作业命名空间使用约定前缀，监控平台可自动从zookeeper中获取作业信息，无需手工添加作业。
+* 作业命名空间前缀可在监控平台修改。
+* 增加数据处理中心，少量修改即可整合到自己业务中。
   
 ##主要贡献者
 * 醉猫仙人 
 * 微信公众号
-http://images.cnblogs.com/cnblogs_com/tenghoo/236809/o_zm.jpg
-**讨论QQ群：**430066234（不限于Elastic-Job，包括分布式，定时任务相关以及其他互联网技术交流）
+![微信公众号](http://images.cnblogs.com/cnblogs_com/tenghoo/236809/o_zm.jpg)
 
 ## Elastic-Job简介
 [github](http://dangdangdotcom.github.io/elastic-job)
