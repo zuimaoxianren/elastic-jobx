@@ -6,8 +6,7 @@
 * 增加数据处理中心，少量修改即可整合到自己业务中。
   
 ##主要贡献者
-* 醉猫仙人 
-* 微信公众号
+* 醉猫仙人 (微信公众号)
  <img src="http://images.cnblogs.com/cnblogs_com/tenghoo/236809/o_zm.jpg" width = "200" height = "200" alt="醉猫仙人微信公众号" align=center />
 
 ## Elastic-Job简介
